@@ -1,0 +1,5 @@
+-- Aggregate summary files into arrow files, both with
+
+WF_AGGREGATE_TABLES <SCRATCH>/<USER>/<CASE_DIR> -env <SUMO_ENV>
+
+-- The workflow needs to be run post simulation, otherwise there is nothing to aggregate ;-)
