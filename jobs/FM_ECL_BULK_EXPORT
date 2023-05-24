@@ -1,0 +1,5 @@
+EXECUTABLE  ../scripts/fm_ecl_bulk_export.py
+ARGLIST <ECLBASE> <GLOBAL_VARIABLES>
+
+STDERR  fm_ecl_bulk_export.stderr
+STDOUT  fm_ecl_bulk_export.stdout
